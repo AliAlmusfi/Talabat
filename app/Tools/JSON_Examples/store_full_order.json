@@ -1,0 +1,23 @@
+{
+    "user_id":"1",
+    "products": {
+        "1":{
+            "id":"1",
+            "quantity":"4"
+        },
+        "2":{
+            "id":"2",
+            "quantity":"6"
+        },
+        "3":{
+            "id":"3",
+            "quantity":"8"
+        }
+    },
+    "location":{
+        "user_longitutde":"31234183",
+        "user_latitutde":"3204743"
+    },
+    "total_price":"100000"
+
+}
